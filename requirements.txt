@@ -3,5 +3,6 @@ transformers
 nltk
 tensorflow
 tf-keras
-
+google.generativeai
+dotenv
 
