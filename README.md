@@ -78,16 +78,16 @@ Let's give a sample prompt:
 ## Screenshots
 - Dashboard UI
 
-![Dashboard](/https://github.com/SankethSingh/AI_Health-Chatbot/blob/master/dashboard-bot.png?raw=true)
+![Dashboard](https://github.com/SankethSingh/AI_Health-Chatbot/blob/master/images/dashboard-bot.png?raw=true)
 
 - Processing Query
-![Processing Query](https://github.com/SankethSingh/AI_Health-Chatbot/blob/master/query-bot.png?raw=true)
+![Processing Query](https://github.com/SankethSingh/AI_Health-Chatbot/blob/master/images/query-bot.png?raw=true)
 
 - Display Output
-![Output](https://github.com/SankethSingh/AI_Health-Chatbot/blob/master/result-bot.png?raw=true)
+![Output](https://github.com/SankethSingh/AI_Health-Chatbot/blob/master/images/result-bot.png?raw=true)
 
 - Critical case input
-![Critical-input](https://github.com/SankethSingh/AI_Health-Chatbot/blob/master/critical-input.png?raw=true)
+![Critical-input](https://github.com/SankethSingh/AI_Health-Chatbot/blob/master/images/critical-input.png?raw=true)
 
 
 ## Future Enhancements
